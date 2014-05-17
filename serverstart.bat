@@ -1,0 +1,1 @@
+start arma3server.exe -nosplash -localhost=127.0.0.1 -connect=localhost -mod=@cba_a3;@Arma2NET; -steamPort=8767 -steamQueryport=21017 -port=2333 -maxMem=4094 -noPause -nologs -cpuCount=3 -config=changeme\changeme.cfg
